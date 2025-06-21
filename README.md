@@ -1,2 +1,2 @@
 # 22BAD002
-It contains two front end projects
+It contains two back end projects
